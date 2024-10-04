@@ -4,7 +4,7 @@ import setuptools
 #     long_description = fh.read()
 
 setuptools.setup(
-    # name='graspnet1B',
+    name={{cookiecutter.directory_name}},
     version='1.0.0',
     # author="Keti starteam",
     # author_email="bmtrungvp@gmail.com",
